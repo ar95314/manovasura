@@ -1,15 +1,17 @@
-#include<stdio.h>
-void main()
+
+int main()
 {
-char a[10];
-int i,c;
-printf("Enter the word:");
-scanf("%s",a);
-printf("\nenter the N times");
-scanf("%d",&c);
-for(i=0;i<=c;i++)
+int m,i;
+printf("Enter a Number\n");
+scanf("%d",&m);
+
+for(i=0; i<m; i++)
 {
-printf("\n%s",a);
+printf("Hello\n");
 }
 
+
+
+
+return 0;
 }
