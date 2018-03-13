@@ -9,7 +9,8 @@ font-family:"Arial";
 font-size:18px;
 text-decoration-style:underline;
 }
-blockquote {
+blockquote 
+{
   background: #f9f9f9;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
@@ -19,7 +20,7 @@ blockquote {
 <h1 align=CENTER>RESUME</h1>
 </head>
 <body>
-  <img src ="C:\Users\venkat\Downloads\DSC_4137.JPG"  style="position:absolute;top:120;left:1650" width="250" height="176" alt="Venkatasubrahmaniyan" align="right">
+  <img src ="C:\Users\venkat\downloads\DSC_4137.JPG"  style="position:absolute;top:120;left:1650" width="250" height="176" alt="Venkatasubrahmaniyan" align="right">
 <h3>BASIC INFO</h3>
 <p><blockquote style="color:black">Name       :-<b>S.Venkatasubrahmaniyan</b><br/>
 Degree        :-<b>B.E in Computer science and Engineering</b><br/>
