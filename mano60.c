@@ -1,6 +1,6 @@
 #include <stdio.h>
 #includeconio.h>
-int main(void) 
+int main() 
 
 {
 
@@ -28,6 +28,5 @@ b=c;
 
 }
 
-return 0;
 
 }
