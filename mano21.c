@@ -1,11 +1,11 @@
 include <stdio.h>
 {
 int main(void) 
-int x,y,z,sum;
-scanf("%d",&x);
-scanf("%d",&y);
-scanf("%d",&z);
-sum=(n*(2* x+(y-1)*z))/2;
+int a,b,c,sum;
+scanf("%d",&a);
+scanf("%d",&b);
+scanf("%d",&c);
+sum=(n*(2* a+(b-1)*c))/2;
 printf("%d",sum);
 	return 0;
 }
